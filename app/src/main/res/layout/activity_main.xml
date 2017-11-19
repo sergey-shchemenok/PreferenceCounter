@@ -12,7 +12,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginBottom="16dp"
         android:layout_height="wrap_content"
-        android:text="I'm glad to help count!"
+        android:text="I'm glad to help you count!"
         android:fontFamily="sans-serif-medium"
         android:gravity="center"
         android:textColor="#ffffff"
